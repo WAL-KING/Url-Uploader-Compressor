@@ -1,0 +1,6 @@
+requests
+ffmpeg-python
+yt-dlp
+libtorrent
+opencv-python
+telethon
