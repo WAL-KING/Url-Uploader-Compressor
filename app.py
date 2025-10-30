@@ -21,7 +21,7 @@ from telethon.errors import UserNotParticipantError
 # ==== CONFIGURATION ====
 API_ID = 24110167
 API_HASH = "ce324042b2a43e39ede63c7dbb8e301d"
-BOT_TOKEN = "8380644910:AAFzNrfA62AvTmOHFXSzZEm7K16sGjir8Ik"
+BOT_TOKEN = "8063231211:AAG9SPpqCbXxoblwmgXINhjQSZs4KZff73Y"
 
 DOWNLOAD_DIR = Path("./downloads")
 DOWNLOAD_DIR.mkdir(exist_ok=True)
